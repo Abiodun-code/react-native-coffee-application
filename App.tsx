@@ -4,8 +4,7 @@ import HomeScreen from './screens/HomeScreen';
 import AppNavigation from './navigation/appNavigation';
 
 export default function App() {
-  
- return (
+  return (
     <AppNavigation/>
   );
 }
